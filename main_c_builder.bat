@@ -1,1 +1,0 @@
-gcc -o main_c *.c -lm

@@ -1,0 +1,1 @@
+g++ main.cpp support.cpp -o write.exe

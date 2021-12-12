@@ -1,1 +1,7 @@
+# extension files
+*.suo
 *.exe
+
+# folders
+.vs/
+Debug/
